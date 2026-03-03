@@ -1,2 +1,2 @@
 # IMT-131AntonioVargasArizaga
-## Espacio Hecho para almacenar trabajos de la materia de Programacion superior
+## Programacion Superior IMT-131, Materia que cuyo objetivo es dar el paso definitivo hacia el desarrollo de lenguaje enfocado en Sistemas Embebidos, el presente repositorio sirve para almacenar trabajos referidos a la materia mencionada 
