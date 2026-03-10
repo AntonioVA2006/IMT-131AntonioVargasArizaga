@@ -1,0 +1,30 @@
+  635  echo "error: memoria llena" >> log.txt
+  636  echo "info: proceso iniciado" >> log.txt
+  637  echo "warning: espacio bajo" >> log.txt
+  638  echo "error: archivo no encontrado" >> log.txt
+  639  echo "info: proceso terminado" >> log.txt
+  640  cat log.txt
+  641  cd ..
+  642  grep error log.txt
+  643  grep error datos/log.txt 
+  644  grep info datos/log.txt
+  645  wc -l datos/nombres.txt
+  646  grep ana datos/nombres.txt
+  647  sort datos/nombres.txt
+  648  cd ..
+  649  cd practica_linux
+  650  find -name "*.txt"
+  651  find . -type f -name "*.txt"
+  652  wc find. -type f -name "*.txt"
+  653  wc -find. -type f -name "*.txt"
+  654  wc --h
+  655  find . -type f -name "*.txt" | wc -l
+  656  wc -l | find . -type f -name "*.txt"
+  657  grep error datos/log.txt | sort 
+  658  history 30 > resultado_practica4.txt
+  659  nano resultado_practica4.txt
+  660  history
+  661  history | tail -n 30
+  662  history 30
+  663  rm resultado_practica4.txt
+  664  ls
