@@ -1,0 +1,13 @@
+
+7 datos/usuarios.txt
+error: contrasenia incorrecta ana
+error: contrasenia incorrecta juan
+error: usuario no encontrado carlos
+ana
+ana
+juan
+juan
+lucas
+maria
+pedro
+3
