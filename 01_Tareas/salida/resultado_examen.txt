@@ -1,0 +1,5 @@
+TOTAL_ARCHIVOS = 10
+TOTAL_TXT = 8
+TOTAL_ERRORES = 3
+TOTAL_REGISTRADOS = 5 datos/usuarios.txt
+USUARIOS_ORDENADOS = ana juan lucas maria pedro
